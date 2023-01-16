@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakandrsn" alt="hakandrsn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hakandrsnn7" target="blank"><img src="https://img.shields.io/twitter/follow/hakandrsnn7?logo=twitter&style=for-the-badge" alt="hakandrsnn7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hakandrsn7" target="blank"><img src="https://img.shields.io/twitter/follow/hakandrsn7?logo=twitter&style=for-the-badge" alt="hakandrsn7" /></a> </p>
 
 - 🔭 I’m currently working on [AS KADRO](-)
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hakandrsnn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakandrsnn7" height="30" width="40" /></a>
+<a href="https://twitter.com/hakandrsn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakandrsn7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hakandursun97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakandursun97" height="30" width="40" /></a>
 <a href="https://fb.com/hakan dursun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hakan dursun" height="30" width="40" /></a>
 <a href="https://instagram.com/hakanndrsnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakanndrsnn" height="30" width="40" /></a>

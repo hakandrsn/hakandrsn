@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakan Dursun</h1>
 <h3 align="center">A frontend developer from Turkey</h3>
+<h4 align="center">I've been in software for about 3 years, I finished electrical and electronic engineering before that and I realized that software interests me more, from now on I will continue my life like this.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakandrsn&label=Profile%20views&color=0e75b6&style=flat" alt="hakandrsn" /> </p>
 

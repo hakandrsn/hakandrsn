@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hakandrsn7" target="blank"><img src="https://img.shields.io/twitter/follow/hakandrsn7?logo=twitter&style=for-the-badge" alt="hakandrsn7" /></a> </p>
 
-- 🔭 I’m currently working on [AS KADRO](-)
+- 🔭 I’m currently working on [Eteration](-)
 
 - 🌱 I’m currently learning **Ads**
 

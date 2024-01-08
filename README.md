@@ -10,17 +10,17 @@
 
 - 🔭 I’m currently working on [Eteration](-)
 
-- 🌱 I’m currently learning **Ads**
+- 🌱 I’m currently learning **Swift**
 
-- 🤝 I’m looking for help with **Sanal server,nodejs,react and postgresql**
+- 🤝 I’m looking for help with **Android, IOS, React**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1kPj5Vc9HzKCNuJ2ghxyROEsgafYwJDXN/view?usp=sharing](https://drive.google.com/file/d/1kPj5Vc9HzKCNuJ2ghxyROEsgafYwJDXN/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1-X4FU7TX-YAb_E2ZaigcJOpmeVXLuEz3/view?usp=drive_link](https://drive.google.com/file/d/1-X4FU7TX-YAb_E2ZaigcJOpmeVXLuEz3/view?usp=drive_link)
 
 - 📝 I regularly write articles on [https://medium.com/@hakan.dursnn](https://medium.com/@hakan.dursnn)
 
-- 💬 Ask me about **react and nodejs**
+- 💬 Ask me about **React, Nodejs, bridge, architecture**
 
-- 📫 How to reach me **hakandrsnn@gmail.com**
+- 📫 How to reach me **hakand.dursnn@gmail.com**
 
 - ⚡ Fun fact **I'm constantly writing**
 

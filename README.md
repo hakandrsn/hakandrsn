@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Android, IOS, React**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1-X4FU7TX-YAb_E2ZaigcJOpmeVXLuEz3/view?usp=drive_link](https://drive.google.com/file/d/1-X4FU7TX-YAb_E2ZaigcJOpmeVXLuEz3/view?usp=drive_link)
+- 👨‍💻 All my projects are in my [cv](https://drive.google.com/file/d/1-X4FU7TX-YAb_E2ZaigcJOpmeVXLuEz3/view?usp=drive_link)
 
 - 📝 I regularly write articles on [https://medium.com/@hakan.dursnn](https://medium.com/@hakan.dursnn)
 

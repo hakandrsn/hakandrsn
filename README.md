@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakandrsn" alt="hakandrsn" /></a> </p>
 
-- 🔭 I’m currently working on [Napp'sa](https://play.google.com/store/apps/details?id=com.lejoo.nappsa&gl=TR)
+- 🔭 I’m currently working on "Geliom: Friends and Family" this is mobile app for none message only status
 
 - 🌱 I’m currently learning **Advance SQL,Agile, Linux, AWS**
 

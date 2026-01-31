@@ -56,7 +56,7 @@ My primary focus is building **high-performance cross-platform mobile applicatio
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 📱 **[Geliom](https://github.com/hakandrsn/geliom)** | **Real-Time Social App (Mobile).**<br>A seamless mobile experience for sharing instant moods using WebSockets. Features Optimistic UI updates. | `React Native` `Expo` `Socket.io` |
-| 🧩 **[Tilo](https://github.com/hakandrsn/tilo)** | **Mobile Puzzle Game.**<br>Advanced Jigsaw puzzle game featuring complex gesture handling, haptic feedback, and dynamic logic. | `React Native` `Skia` `Zustand` |
+| 🧩 **[Tilo](https://github.com/hakandrsn/tilo)** | **Mobile Puzzle Game.**<br>Advanced Jigsaw puzzle game featuring complex gesture handling, haptic feedback, and dynamic logic. | `React Native` `Reanimated` `Zustand` |
 | ⚔️ **[BarbarosKs](https://github.com/hakandrsn/BarbarosKs)** | **MMO Backend Architecture.**<br>Scalable .NET 8 backend designed for game clients, featuring Clean Architecture & CQRS. | `.NET 8` `PostgreSQL` `CQRS` |
 | 🏗️ **[Bulki Insaat](https://github.com/hakandrsn/bulki-insaat)** | **Modern Web Platform.**<br>High-performance corporate website with server-side rendering. | `Next.js 14` `TypeScript` |
 
